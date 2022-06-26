@@ -2,15 +2,18 @@
 
 **React** adalah _library_ JavaScript untuk membangun UI (_user interface_).
 Keunggulan React:
+
 - Deklaratif, sehingga kode lebih mudah dibaca dan dipahami
 
 - Berbasis komponen, sehingga tidak perlu menulis kode yang sama berulang-
-ulang
+  ulang
 
 - Bisa digunakan di mana saja, baik web, mobile (React Native), maupun desktop
-(Electron)
+  (Electron)
+
 Di React, kita menggunakan JSX, yaitu kode mirip HTML yang ditulis di dalam
 JavaScript.
+
 Contoh:
 
 ```jsx
